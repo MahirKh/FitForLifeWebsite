@@ -1,0 +1,55 @@
+body{
+	background-color: #60db85;
+	font-family: 'Barlow', sans-serif;
+}
+
+#mainNavbar .nav-link{
+	color: white;
+}
+
+#mainNavbar .nav-link:hover{
+	color: #e07b7b;
+}
+
+#title{
+	padding-top: 20%;
+	padding-bottom: 25%
+}
+
+
+.navbar.scrolled{
+	background: #8cab8f;
+	transition: background 1s;
+}
+
+#wraps .card{
+	justify-content: center;
+	width: 18rem;
+	height: 100%;
+}
+
+#burritos .card{
+	justify-content: center;
+	width: 18rem;
+	height: 100%;
+}
+
+#pitas .card{
+	justify-content: center;
+	width: 18rem;
+	height: 100%;
+}
+
+#panini .card{
+	justify-content: center;
+	width: 18rem;
+	height: 100%;
+}
+
+#salad .card{
+	justify-content: center;
+	width: 18rem;
+	height: 100%;
+}
+
+
