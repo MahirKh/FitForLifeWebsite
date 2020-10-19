@@ -1,0 +1,35 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "password",
+    "id": "b00bbda5"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "password",
+    "id": "706a94c6"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "${buf.toString('hex')}.${salt}",
+    "id": "9ec0d3d9"
+  },
+  {
+    "email": "test11@test.com",
+    "password": "${buf.toString('hex')}.${salt}",
+    "id": "e138efef"
+  },
+  {
+    "email": "test9@test.com",
+    "password": "${buf.toString('hex')}.${salt}",
+    "id": "04706bc2"
+  },
+  {
+    "email": "test12@gmail.com",
+    "password": "${buf.toString('hex')}.${salt}",
+    "id": "8683399a"
+  }
+]

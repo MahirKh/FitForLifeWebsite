@@ -1,0 +1,21 @@
+body{
+	background-color: #60db85;
+	font-family: 'Barlow', sans-serif;
+}
+
+#mainNavbar .nav-link{
+	color: white;
+}
+
+#mainNavbar .nav-link:hover{
+	color: #e07b7b;
+}
+
+#title{
+	padding-top: 5%;
+}
+
+.navbar.scrolled{
+	background: #8cab8f;
+	transition: background 1s;
+}
